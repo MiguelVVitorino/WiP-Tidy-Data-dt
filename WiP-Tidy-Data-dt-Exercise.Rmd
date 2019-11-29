@@ -113,6 +113,11 @@ wip <- fread(here("data", "WB-WiP.csv"),
 
 # Continue from here...
 
+```{r eu}
+
+class(wip)
+
+```
 
 
 
