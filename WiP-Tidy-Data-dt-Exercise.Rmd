@@ -111,11 +111,11 @@ wip <- fread(here("data", "WB-WiP.csv"),
              check.names = TRUE)
 ```
 
-# Continue from here...
+# LETS DO IT!!!
 
-```{r eu}
+```{r lets do it}
 
-class(wip)
+str(wip)
 
 ```
 
